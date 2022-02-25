@@ -8,4 +8,6 @@ __The modules used are:__
 4) from PIL import ImageTk,Image #PIL -> Pillow
 5) from tkinter import messagebox
 
+**Basic Display**
 
+![mainI](https://user-images.githubusercontent.com/96349715/155718213-8496789f-5787-42bf-a0ce-c5433f4250c1.png)
